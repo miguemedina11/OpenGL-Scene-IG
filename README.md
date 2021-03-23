@@ -1,2 +1,2 @@
 # PracticasIG
-UGR IG Practicas - A Scene made and animated using GLUT
+UGR IG Practicas - Pingu playing the trumpet made and animated using OpenGL/glut/glu/glew
